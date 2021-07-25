@@ -1,0 +1,32 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express.js Note Taker Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartaya1/Note-Taker.git"
+  },
+  "keywords": [
+    "express",
+    "Nodejs",
+    "dependencies",
+    "Heroku"
+  ],
+  "author": "Luis Cartaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartaya1/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/cartaya1/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
