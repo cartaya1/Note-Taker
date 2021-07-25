@@ -1,7 +1,7 @@
 # Unit 11 Express Homework: Note Taker
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40cartaya1-orange)
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 # Description :
 
@@ -110,7 +110,7 @@ node server.js
 
 # License
 
-This project is under ![ISC License](https://img.shields.io/badge/license-ISC-green).
+This project is under ![ISC License](https://img.shields.io/badge/license-ISC-blue).
 
 # Contribution
 
