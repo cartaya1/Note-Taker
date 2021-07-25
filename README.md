@@ -125,9 +125,8 @@ If you have any questions about the repo:
 
 # Repository
 - [Heroku App](https://cartaya1-note-taker.herokuapp.com/)
-- [Heroku Git](https://git.heroku.com/cartaya1-note-taker.git)
 - [Project Repo](https://github.com/cartaya1/Note-Taker)
-- [GitHub Test](https://cartaya1.github.io/Note-Taker/)
+- [GitHub Test](https://cartaya1.github.io/Note-Taker/public/index.html)
 
 # GitHub
 - [GitHub](https://github.com/cartaya1) Cartaya's House Inc.
